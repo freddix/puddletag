@@ -1,11 +1,11 @@
 Summary:	A tag editor for Linux similar to Mp3tag
 Name:		puddletag
-Version:	1.0.2
+Version:	1.0.3
 Release:	1
 License:	GPL v2
 Group:		X11/Applications/Sound
 Source0:	http://downloads.sourceforge.net/puddletag/%{name}-%{version}.tar.gz
-# Source0-md5:	13e78e99a686e65820159bc4e8e81ba7
+# Source0-md5:	7105fde17fa83dc7121341a7ce095be6
 URL:		http://puddletag.sourceforge.net
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
